@@ -1,0 +1,7 @@
+[2026-11-10T01:26:11Z] === AST ITERATION 1 START | repo=smithy-lang/smithy-typescript sha=fd1d44eb ===
+[2026-11-10T01:26:11Z] [iter=1] PHASE START: ast repo=smithy-lang/smithy-typescript sha=fd1d44eb
+[2026-11-10T01:26:11Z] [iter=1] Building AST aggregate chunks
+[2026-11-10T01:28:14Z] [iter=1] AST chunks built count=1 triples=1831383
+[2026-11-10T01:28:14Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/fd1d44eb6b90c2cfde82946656d7a2019d1bd3fb/.complete
+[2026-11-10T01:28:14Z] [iter=1] PHASE END: ast elapsed_s=122 elapsed_min=2.0
+[2026-11-10T01:28:14Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
